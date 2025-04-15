@@ -1,4 +1,4 @@
-# 🧠 Sistema de Clasificación KNN (K-Nearest Neighbours)
+# 🧠 Sistema de Clasificación KNN (K-Nearest Neighbours) - Clases DATASET & INSTANCE
 
 Este proyecto implementa un sistema de clasificación utilizando el algoritmo `k-NN` (k vecinos más cercanos). Está desarrollado en Java y permite cargar un dataset desde un archivo `.csv`, normalizar los datos, clasificar nuevas instancias y guardar resultados modificados.
 
